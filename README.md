@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hey there ✨
+
+I'm a Software/ML Engineer from France currently working at Epitech Technology !⚡
+
+All of my projects are open source feel free to take a look at them in the repository section of my github page: [RahulCHANDER25](https://github.com/RahulCHANDER25?tab=repositories) !
+
+I can talk about some:
+[LavaTensor](https://github.com/RahulCHANDER25/LavaTensor): A C++ Tensor Library implementing Autograd Pytorch.
+[Rainbow](https://github.com/RahulCHANDER25/Rainbow-DQN) DQN: An implementation of the Google Deepmind Reinforcement Learning Algorithm, with Pytorch.
+[GPT-2 Implem](https://github.com/RahulCHANDER25/GPT-2-Implem): An reproduction of a GPT-2 model, with Pytorch.
+[News Context](https://github.com/RahulCHANDER25/News-Context): An AI chatbot Agent that resume a news article using FastAPI, NextJS and Ollama
+[RType](https://github.com/RahulCHANDER25/R-Type): A Game Engine with network components (UDP and TCP protocol) in C++
+[Area](https://github.com/RahulCHANDER25/AREA): A Reproduction of IFTTT or Zapier in Golang/NextJS/Flutter
+
+If you have questions about my projects feel free to send me an email:
+rahul.chander@epitech.eu
 
 <!--
 **RahulCHANDER25/RahulCHANDER25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
