@@ -1,6 +1,6 @@
 # Hey there ✨
 
-I'm a Software/ML Engineer from France currently working at Epitech Technology !⚡
+I'm a MLOps | ML Engineer from France !⚡
 
 ## Projects
 
