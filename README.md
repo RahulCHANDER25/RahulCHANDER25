@@ -10,11 +10,11 @@ I can talk about some of them:
 
 - [LavaTensor](https://github.com/RahulCHANDER25/LavaTensor): A C++ Tensor Library implementing Autograd Pytorch.
 
+- [News Context](https://github.com/RahulCHANDER25/News-Context): An AI chatbot Agent that resume a news article using FastAPI, NextJS and Ollama
+
 - [Rainbow](https://github.com/RahulCHANDER25/Rainbow-DQN) DQN: An implementation of the Google Deepmind Reinforcement Learning Algorithm, with Pytorch.
 
 - [GPT-2 Implem](https://github.com/RahulCHANDER25/GPT-2-Implem): An reproduction of a GPT-2 model, with Pytorch.
-
-- [News Context](https://github.com/RahulCHANDER25/News-Context): An AI chatbot Agent that resume a news article using FastAPI, NextJS and Ollama
 
 - [RType](https://github.com/RahulCHANDER25/R-Type): A Game Engine with network components (UDP and TCP protocol) in C++
 
