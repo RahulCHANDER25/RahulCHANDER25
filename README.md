@@ -10,7 +10,7 @@ I can talk about some of them:
 
 - [LavaTensor](https://github.com/RahulCHANDER25/LavaTensor): A C++ Tensor Library implementing Autograd Pytorch.
 
-- [News Context](https://github.com/RahulCHANDER25/News-Context): An AI chatbot Agent that resume a news article using FastAPI, NextJS and Ollama
+- [Bark Beetles Study](https://github.com/RahulCHANDER25/bark-beetles-study): A Bark Beetles detection study using Deep Learning algorithms (VAE, U-Net, YOLO, CNN).
 
 - [Rainbow](https://github.com/RahulCHANDER25/Rainbow-DQN) DQN: An implementation of the Google Deepmind Reinforcement Learning Algorithm, with Pytorch.
 
@@ -18,7 +18,7 @@ I can talk about some of them:
 
 - [RType](https://github.com/RahulCHANDER25/R-Type): A Game Engine with network components (UDP and TCP protocol) in C++
 
-- [Area](https://github.com/RahulCHANDER25/AREA): A Reproduction of IFTTT or Zapier in Golang/NextJS/Flutter
+- [Area](https://github.com/RahulCHANDER25/AREA): A Reproduction of IFTTT/Zapier in Golang/NextJS/Flutter
 
 
 ## Contacts
